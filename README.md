@@ -1,7 +1,7 @@
 # Shortcus-Gallery
 Personal shortcuts share
 
-## TinyPNG
+## 1.TinyPNG
 
 更新: 2018.11.28
 
@@ -14,7 +14,8 @@ Personal shortcuts share
 [下载链接(Safari打开)](https://www.icloud.com/shortcuts/87926d0f88b64335b05e69c7319503aa)
 
 
-## Resize Image
+
+## 2.Resize Image
 
 更新: 2018.11.29
 
